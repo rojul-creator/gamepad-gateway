@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AetherPad HUD</string>
+    <string name="relay_active">Broadcasting UDP controller relay</string>
+</resources>

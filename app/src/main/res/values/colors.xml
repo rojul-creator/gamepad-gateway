@@ -1,0 +1,5 @@
+<resources>
+    <color name="neon_cyan">#00FFFF</color>
+    <color name="neon_magenta">#FF00FF</color>
+    <color name="hud_background">#05070D</color>
+</resources>

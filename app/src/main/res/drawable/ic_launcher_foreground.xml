@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Gamepad Chassis Outline -->
+    <path
+        android:strokeColor="#00FFFF"
+        android:strokeWidth="3"
+        android:fillColor="#0F172A"
+        android:pathData="M34,42 C42,40 66,40 74,42 C84,44 92,54 90,70 C88,82 78,86 70,82 C64,78 60,68 54,68 C48,68 44,78 38,82 C30,86 20,82 18,70 C16,54 24,44 34,42 Z"/>
+    <!-- Neon Magenta Accent Buttons -->
+    <path
+        android:fillColor="#FF00FF"
+        android:pathData="M72,50 A3,3 0 1,1 72,56 A3,3 0 1,1 72,50 Z"/>
+    <path
+        android:fillColor="#00FFFF"
+        android:pathData="M36,54 A4,4 0 1,1 36,62 A4,4 0 1,1 36,54 Z"/>
+</vector>
